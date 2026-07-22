@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact me</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <h1>
+       CONTACT ME
+        </h1>
+    </header>
+    <br>
+    <br>
+    <form>
+        <label for="Full-name">Full Name:</label>
+        <input type ="text" id="Full-name" name="name" required>
+        <br>
+        <br>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+        <br>
+        <br>
+        <label for="telegram">Telegram Username</label>
+        <input type="text" id="telegram" name="telegram" placeholder="@yourusername">
+        <!--
+        <br>
+        <br>
+        <label for="last name">Last Name:</label>
+        <input type ="text" id="last name" name="name" required>
+        -->
+        <br>
+        <br>
+        <br>
+        <br>
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="gender" value="female" required>
+        <br>
+        <br>
+        <!--<label for="password">Password</label>
+        <input type="password" id="password" name="password" minlength="6" required>
+        <br>
+        <br>
+        <br>
+        <label for="rating">How Do You Rate My portfolio(1-5)</label>
+        <input type="range" id="rating" name="rating" min="1" max="5" step="0.5" value="2.5">
+        <br>
+        <br>
+        <br>
+        <br>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+    <br>
+    <br>
+    <footer>
+        <p>&copy; 2026 Leul.All rights reserved</p>
+        <a href="https://t.me/nahom505" target="_blank" title="Message me on telegram">Telegram</a>
+        <a href="https://github.com/nahomwondimagegn1" target="_blank" title="check out my GitHub">GitHub</a>
+        <a href="mailto:nahomwondimagegn1@gmail.com" title="Email me">Email</a>
+    </footer>
+</body>
+</html>
