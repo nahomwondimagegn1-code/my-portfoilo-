@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About me</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <h1>
+       Nahom, a kid from high school
+        </h1>
+    </header>
+    <section>
+        <!--Bio-->
+        <p>
+          I started coading a year ago becuse of my brother' pressur to make me understund about  coding and web  dev't I didn't like it at first but it becam a fun thing once I 
+knew about the basics so hear I am trying to finish the bootcamp and trying to create a website usig HTML5
+        </p>
+    </section>
+    <br>
+    <br>
+    <section>
+        <h2>currently learning</h2>
+        <ul>
+            <li>CSS</li>
+            <li>Web Development</li>
+            
+        </ul>
+    </section>
+    <br>
+    <br>
+    <section>
+        <h2>My Weekly bootcamp Schedule</h2>
+        <table>
+        <table border="1" cellpadding="8" cellspacing="0">
+        <tr>
+            <th>Day</th>
+            <th>Focus topics</th>
+            <th>class</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Frontend class</td>
+        </tr>
+      /<tr>
+        </tr>
+        <tr>
+            <td>Wednesday</td>
+            <td>Frontend class</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Frontend class</td>
+        </tr>
+        <tr>
+           
+        </tr>
+    </table>
